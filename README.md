@@ -38,7 +38,7 @@ A full-stack real-time chat application built with React and Spring Boot.
 ### login Page
 ![Login Screenshot](image/login.png)
 
-### Login Page
+### Register Page
 ![Register Screenshot](image/register.png)
 
 ### Friends Page
